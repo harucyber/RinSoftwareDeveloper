@@ -6,7 +6,7 @@
 	<link href='https://fonts.googleapis.com/css?family=Lexend Deca' rel='stylesheet'>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width">
-	<link href="style.css" rel="stylesheet" type="text/css" />
+	<link href="style.css" rel="stylesheet"/>
 </head>
 
 <body>
