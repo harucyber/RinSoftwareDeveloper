@@ -17,3 +17,9 @@ Top Languages:
 2. HTML, CSS and Web Javascript
 3. C++
 4. Backend Javascript and PHP
+
+Future Things to Learn:
+1. Kotlin App Development
+2. Java App Scripting
+3. Javascript React
+4. Further Exploration into Scala Front End
