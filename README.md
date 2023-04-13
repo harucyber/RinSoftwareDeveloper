@@ -6,11 +6,17 @@
 	<link href='https://fonts.googleapis.com/css?family=Lexend Deca' rel='stylesheet'>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width">
-	<link href="style.css" rel="stylesheet"/>
 </head>
 
 <body>
-	<div id="intro">
+	<div id="intro" style="  width: 500px; 
+  margin: auto;
+
+  padding: 20px;
+  border-style: solid;
+  border-color: #B6C7D6;
+  border-radius: 20px;
+  background-color: #EAF0F6;">
 		<div id="padding">
 			<h1>RinUnderscore</h1>
 			<img src='assets/rinpfp.jpg' id="pfp">
