@@ -1,25 +1,5 @@
 # RinUnderscore
 https://web.rincyber.repl.co
 
+[![Anurag's RinSoftwareDeveloper stats](https://github-readme-stats.vercel.app/api?username=RinSoftwareDeveloper)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=RinSoftwareDeveloper&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## What I Use
-Code IDE: VSCode (though I am looking forward to switching torward NeoVim)
-
-Code Cloud Management: Github
-
-Terminal: Powershell (though some things I still use cmd for)
-
-Perfered OS: Windows 11 (or Ubuntu Linux)
-
-Top Languages:
-1. Python
-2. HTML, CSS and Web Javascript
-3. C++
-4. Backend Javascript and PHP
-
-Future Things to Learn:
-1. Kotlin App Development
-2. Java App Scripting
-3. Javascript React
-4. Further Exploration into Scala Front End
