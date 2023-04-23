@@ -8,3 +8,6 @@
 </a>
 
 https://web.rincyber.repl.co
+
+## Accomplishments
+- Mega Hackathon 2023 ANTI CORRUPTION Catagory Winner: PoliticianWatch
