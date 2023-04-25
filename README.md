@@ -7,7 +7,29 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinSoftwareDeveloper&show_icons=true&theme=radical" />
 </a>
 
-https://web.rincyber.repl.co
+```py
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Ethan Y"
+        self.nickname = "Rin"
+        self.role = "Independent Third Party Developer"
+        self.mainrole = "Software Engineer"
+        self.language_spoken = ["en_US", "zh_CN"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+<a href "https://web.rincyber.repl.co">My website! (still in development)</a>
 
 ## Accomplishments
 - Mega Hackathon 2023 ANTI CORRUPTION Catagory Winner: PoliticianWatch
