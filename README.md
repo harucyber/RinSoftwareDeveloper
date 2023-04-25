@@ -28,8 +28,7 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-
-<a href "https://web.rincyber.repl.co">My website! (still in development)</a>
+My website! (still in development)[https://web.rincyber.repl.co]
 
 ## Accomplishments
 - Mega Hackathon 2023 ANTI CORRUPTION Catagory Winner: PoliticianWatch
