@@ -1,4 +1,4 @@
-# RinUnderscore
+# Rin
 
 Current Intern at MEGA Education: Junior Software Developer
 
