@@ -1,3 +1,20 @@
+<!-- This is the newer README page -->
+# RinSoftware/RinCyber (Software Developer and Logistical Manager)
+
+## Technical Abilities
+
+## Web Development
+
+## Data Science and Applications
+
+
+
+
+
+
+
+
+<!--
 # Rin
 
 Hello everyone! I'm a student and coding hobbyist and currently an Intern at MEGA Education as an Junior Software Developer.
@@ -11,3 +28,5 @@ I have an interest in Logistics and Management as well and looking for paths in 
 
 ## Accomplishments
 - Mega Hackathon 2023 ANTI CORRUPTION Catagory Winner: PoliticianWatch
+Old README
+-->
