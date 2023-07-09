@@ -1,13 +1,11 @@
 <!-- This is the newer README page -->
 # RinSoftware/RinCyber (Software Developer and Logistical Manager)
-Currently working on:
-https://github.com/RinSoftwareDeveloper/evolution
 
-## Technical Abilities
+Preparing for Application Exams (not coding much atm)
 
-## Web Development
+Working and helping out @MEGA-Education as JSD Intern
 
-## Data Science and Applications
+Not much going on (not active either)
 
 
 
