@@ -3,7 +3,7 @@
 
 Preparing for Application Exams (not coding much atm)
 
-Working and helping out @MEGA-Education as JSD Intern
+Working and helping out @MEGA-Education as JSD Intern, management position as well
 
 Not much going on (not active either)
 
